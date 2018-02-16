@@ -1,7 +1,7 @@
 {
   "name": "dakayl_angular2-materialize",
   "description": "Angular 2 support for Materialize CSS framework, fork from InfomediaLtd/angular2-materialize",
-  "version": "v15.1.12",
+  "version": "v15.1.13",
   "repository": {
     "type": "git",
     "url": "https://github.com/Dakayl/angular2-materialize.git"
