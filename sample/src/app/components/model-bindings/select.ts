@@ -1,6 +1,6 @@
 import {Component, Input, Output, EventEmitter} from "@angular/core";
-import {MaterializeDirective} from "angular2-materialize";
-import * as Materialize from "angular2-materialize";
+import {MaterializeDirective} from "dakayl_angular2-materialize";
+import * as Materialize from "dakayl_angular2-materialize";
 import {Option} from './option';
 
 @Component({

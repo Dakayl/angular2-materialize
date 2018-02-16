@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule }  from '@angular/platform-browser';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
-import { MaterializeModule } from "angular2-materialize";
+import { MaterializeModule } from "dakayl_angular2-materialize";
 import {MaterialInput,
         Option,
         MaterialSelect} from "./components/model-bindings/index"

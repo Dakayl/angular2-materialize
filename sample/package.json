@@ -1,6 +1,6 @@
 {
-  "name": "angular2-materialize-sample",
-  "description": "Sample application for angular2-materialize",
+  "name": "dakayl_angular2-materialize-sample",
+  "description": "Sample application for dakayl_angular2-materialize",
   "version": "0.0.1",
   "scripts": {
     "ng": "ng",

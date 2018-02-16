@@ -1,4 +1,13 @@
+# Fork
+
+Hello, this is a little fork from 
+https://www.npmjs.com/package/angular2-materialize
+
+To fix some bugs we had.
+
+
 # Angular2 Materialize
+
 
 [![travis build](https://img.shields.io/travis/InfomediaLtd/angular2-materialize.svg?style=flat-square)](https://travis-ci.org/InfomediaLtd/angular2-materialize)
 [![version](https://img.shields.io/npm/v/angular2-materialize.svg?style=flat-square)](https://www.npmjs.com/package/angular2-materialize)
@@ -25,7 +34,7 @@ Start by following the Angular CLI or webpack instructions below to add the requ
 
 Add the MaterializeModule to your NgModule:
 ```js
-import { MaterializeModule } from "angular2-materialize";
+import { MaterializeModule } from "dakayl_angular2-materialize";
 
 @NgModule({
   imports: [
@@ -99,7 +108,7 @@ The example below shows how you'd create a modal dialog and use the actions to o
 </div>
 ```
 ```js
-  import {MaterializeAction} from 'angular2-materialize';
+  import {MaterializeAction} from 'dakayl_angular2-materialize';
   //...
   modalActions = new EventEmitter<string|MaterializeAction>();
   openModal() {
@@ -149,7 +158,7 @@ Edit the angular-cli.json :
 Add to the top of app.module.ts
 
 ```
-import { MaterializeModule } from 'angular2-materialize';
+import { MaterializeModule } from 'dakayl_angular2-materialize';
 
 ```
 
@@ -202,7 +211,7 @@ module.exports = {
 Import MaterializeCSS programatically, in the same place where you import angular2-materialize module (usually in your main module, or shared module):
 ```js
 import 'materialize-css';
-import { MaterializeModule } from 'angular2-materialize';
+import { MaterializeModule } from 'dakayl_angular2-materialize';
 ```
 
 #### Loading additional resources

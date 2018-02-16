@@ -1,4 +1,4 @@
-import {MaterializeDirective} from "angular2-materialize";
+import {MaterializeDirective} from "dakayl_angular2-materialize";
 import {Component} from "@angular/core"
 
 @Component({

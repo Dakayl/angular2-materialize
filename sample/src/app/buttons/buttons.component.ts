@@ -1,6 +1,6 @@
 import { Component, EventEmitter, OnInit } from '@angular/core';
 import { Router } from "@angular/router";
-import {MaterializeAction} from "angular2-materialize"
+import {MaterializeAction} from "dakayl_angular2-materialize"
 
 declare var Materialize:any;
 

@@ -2,7 +2,7 @@ export class TabsRouting {}
 
 // todo
 /*
-import {MaterializeDirective} from "angular2-materialize";
+import {MaterializeDirective} from "dakayl_angular2-materialize";
 import {Component,OnDestroy} from "@angular/core"
 import {Subscription} from "rxjs/subscription";
 import {Location} from '@angular/common';
